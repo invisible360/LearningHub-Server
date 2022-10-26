@@ -2,8 +2,8 @@ const express = require('express');
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 
-const courses = require('./data/Courses.json');
-const course = require('./data/Course.json');
+const courses_categories = require('./data/Courses.json');
+const course_details = require('./data/Course.json');
 
 const app = express();
 
@@ -13,12 +13,23 @@ app.get('/', (req, res) => {
     res.send(`<h1 style="text-align: center">Programing HUB Server is Running...</h1>`);
 })
 
-app.get('/courses', (req, res) => {
-    res.send(courses);
+app.get('/courses_categories', (req, res) => {
+    res.send(courses_categories);
 })
 
 app.get('/course', (req, res) => {
-    res.send(course);
+    res.send(course_details);
+})
+
+app.get('/courses_categories/:id', (req, res) => {
+    const id = req.params.id;
+    const allCourse = course_details.filter(c => c.category_id === id);
+    res.send(allCourse);
+})
+app.get('/course_details/:id', (req, res) => {
+    const id = req.params.id;
+    const cDetails = course_details.find(details => details.id === id);
+    res.send(cDetails);
 })
 
 app.listen(port, () => {
