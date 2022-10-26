@@ -1,0 +1,4334 @@
+[
+  {
+    "id": "01",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Introduction To Python Programming For Beginners",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "The C++ Learning Guide",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Introduction C Programing",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1662027044921-6febc57a0c53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Object Oriented Programming - C#",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Java For Beginners",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "JavaScript",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Linux - The Productive Programmer's Best Friend",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Complete SAS Programming",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Raspberry Pi Programming And Simulation",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Ardunio Programming And Simulation",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "IoT Application Development",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "CRM Turbo",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1557577955-030d6f41638c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1329&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Ultimate Android Development Course 2022",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1614411220531-f91816b774d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Introduction To API Testing",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Introduction To React And Reduxtoolkit",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Node.Js From Ground Up For Beginners",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Applied ML: The Big Picture",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Building AI Android Apps",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "R For Data Science (Crash Course)",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Testing AI Based Systems",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Introduction To Data Science For Complete Beginners",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1504507926084-34cf0b939964?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Data Science Approach From Scratch For Beginners",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Machine Learning & BIG Data Analytics",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1544764200-d834fd210a23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Python For Data Science & Machine Learning From A-Z",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Data Analytics Using Excel",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Fundamentals Of MySQL",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Database Management Systems - MySQL",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Learn MongoDB In 90 Minutes",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "SQL Beginner To Advanced Level Course",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "DBMS In Simple Steps",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Compiler Design Online Training",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "The Optimal Introduction To Ethical Hacking",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Cybersecurity Threat Hunting Professional",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Software Security Testing",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "A Guide To Protection Against Ransomware",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Blockchain Security",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Python For Cybersecurity",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "others_info": {
+      "lectures": 10,
+      "hours": 1.5
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_enrolled": 488,
+    "title": "Cyber Security Awareness",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "overview": {
+      "image_url": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+      "lectures_videos_topics": [
+        {
+          "id": "01",
+          "topic_name": "Course Overview",
+          "duration": "07:04"
+        },
+        {
+          "id": "02",
+          "topic_name": "Setup Python IDE",
+          "duration": "10:14"
+        },
+        {
+          "id": "03",
+          "topic_name": "Comments in Python",
+          "duration": "04:04"
+        },
+        {
+          "id": "04",
+          "topic_name": "Exception Handling in Python",
+          "duration": "15:02"
+        },
+        {
+          "id": "05",
+          "topic_name": "Conditional Logic in Python",
+          "duration": "12:45"
+        },
+        {
+          "id": "06",
+          "topic_name": "List, Tuple, Sets and Dictionary in Python",
+          "duration": "45:23"
+        },
+        {
+          "id": "07",
+          "topic_name": "Loops in Python",
+          "duration": "23:34"
+        },
+        {
+          "id": "08",
+          "topic_name": "File Handling in Python",
+          "duration": "24:04"
+        },
+        {
+          "id": "09",
+          "topic_name": "Python Tips & Tricks",
+          "duration": "10:06"
+        },
+        {
+          "id": "10",
+          "topic_name": "Conclusion",
+          "duration": "07:04"
+        }
+      ],
+      "description": "Python is an open-source language. It's very easy to learn programming language when compared to other languages like Java, C, etc.  It's a cross-platform language, which means that code written for one operating system, such as Windows, will work well on other operating systems as well like macOS or Linux without making any changes in the code. When you are programming in python it takes lesser lines of code to achieve a particular task.",
+      "oportunies": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Data Analytics",
+        "Website Scraping",
+        "Internet of Things (IoT)",
+        "Big Data",
+        "Web Development",
+        "Cloud Computing",
+        "Network Applications",
+        "Socail Network Analysis"
+      ],
+      "topic_covered": [
+        "Basic Setup",
+        "Commnets",
+        "Exception Handling",
+        "Conditional Logic",
+        "Collection of List Tuple Sets & Dictionaries",
+        "Loops",
+        "File Handling"
+      ],
+      "course_for": [
+        "Beginners who have never programmed before",
+        "People curious about programming",
+        "People who want to learn how to program in python",
+        "Programmers switching languages to Python",
+        "Students who want to pursue a career in AI, data science, or web development",
+        "This course is NOT for those who are experienced python language"
+      ],
+      "benefits": [
+        "Learn how to code in Python",
+        "Understand the basics concepts of Python",
+        "Write your own programs in Python"
+      ],
+      "requirements": [
+        "Interest in learning a new programming language",
+        "Everything is included in this course. No prior knowledge needed",
+        "Access to a computer or laptop that contains Windows, Mac, or Linux operating system"
+      ]
+    }
+  }
+]
