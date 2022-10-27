@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send(`<h1 style="text-align: center">Programing HUB Server is Running...</h1>`);
+    res.send(`<h1 style="text-align: center">Learning HUB Server is Running...</h1>`);
 })
 
 app.get('/courses_categories', (req, res) => {
